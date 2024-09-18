@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://iduawnav.github.io/sitemap/sitemap.txt
